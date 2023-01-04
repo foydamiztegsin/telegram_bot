@@ -3,12 +3,14 @@
 
 # __BotFather__
 > Bot manzili 👉 [BotFather](https://t.me/BotFather)
+
 ![BotFather](images/b1.PNG)
 
 
 
 
 - botga start bosganingizdan so'ng bot sizga botda foydalanish mumkin bo'lgan komandalarni yuboradi!
+- 
 ![BotFather](images/b2.PNG)
 
 
