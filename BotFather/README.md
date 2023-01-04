@@ -1,22 +1,21 @@
-# **Python-ni kompyuterimizga o'rnatish** 
+# **BotFather - dan Token olish** 
 
 
-# __Birinchi bosqich__
-> *Python*-ni o'zining web saytidan yuklab olamiz!
-- Sayt manzili 👉 [Python.org](https://www.python.org/)
-
-![ПУСК+R](images/p1.jpg)
-- Yuklashni boshlash uchun *Downloads* tugmasini ustiga sichqonchani yurgizamiz va kichik oyna hosil bo'ladi usha yerdan *Windows* - ni tanlaymiz!
-
-![ПУСК+R](images/p2.jpg)
-- Rasmda ko'rsatilgan qismni toping! *E'tibor bering ayni(04.01.2023) holatiga ko'ra *Python 3.10* - versiyasi tavfsiya qilaman *3.11* - versiyasi ham mavjud lekin muammolar mavjud ushbu versiyada *vaqtincha* 
+# __BotFather__
+> Bot manzili 👉 [BotFather](https://t.me/BotFather)
+![BotFather](images/b1.jpg)
 
 
-# __Ikkinchi bosqich__
-> *Python*-ni o'rnatishni boshlaymiz!
 
-![ПУСК+R](images/p3.jpg)
-- Rasmdagi belgilangan joyga ✅ belgilang!
-	- *Install Now* - ni bosing!
-		- O'rnatish tugashini kuting.....
-			- *Close* - ni bosing o'rnatish tugatildi! 
+
+- botga start bosganingizdan so'ng bot sizga botda foydalanish mumkin bo'lgan komandalarni yuboradi!
+![BotFather](images/b2.jpg)
+
+
+
+- **/newbot komandasini yuborasiz va bot hosil qilishni boshlaysiz**
+	- Birinchi navbatda Botingizga *nom* berasiz (ixtiyoriy)
+	- Keyingi navbatda botingizga *username* yuborishingiz kerak bo'ladi!(username - ning eng so'ngi qismi *_bot* yoki *bot* bilan tugashi kerak)
+	- Agar siz yuborgan username avval yaratilmagan bo'lsa rasmda ko'rsatilgandek BotFather sizga bot yaratib beradi va u yuborgan xabarda botingiz *Manzili* va *Token* - ni mavjud bo'ladi
+![ПУСК+R](images/b3.jpg)
+
