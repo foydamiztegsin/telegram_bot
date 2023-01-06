@@ -14,26 +14,26 @@
     - Procfile (Railway saytida loyihamizni ishga tushirish uchun kerakli fayl
     - requirements.txt (loyihamiz uchun kerakli paketlarni versiyalari bilan birgalikdagi talablar fayli)
     
-<br>
+<hr>
 
  ![Procfile](images/s2.PNG)
  
  - exobot.py o'rnida botingizni ishga tushiradigan fayl nomini yozishingiz zarur!
 
  
-<br>
+<hr>
 
  ![requirements.txt](images/s3.PNG)
  
  - requirements.txt (loyihamiz uchun kerakli paketlarni versiyalari bilan birgalikdagi talablar fayli!
 
 
-<br>
+<hr>
 
  ![exobot.py](images/s4.PNG)
  
  - Botimizni kodlari jamlangan fayl(exobot.py)!
-<br>
+<hr>
 
 
 
