@@ -7,7 +7,7 @@
 
 - **Github** profilimizda loyiha kodlarimiz yuklagan bo'lishim zarur!
 - Loyihamizda quydagi fayllardan tashkil topgan bo'lishi kerak!
-<br>
+
 ![Loyiha fayllari](images/s1.PNG)
 
     - Botimizni kodlari jamlangan fayl(exobot.py)
@@ -15,18 +15,21 @@
     - requirements.txt (loyihamiz uchun kerakli paketlarni versiyalari bilan birgalikdagi talablar fayli)
     
 <br>
+
  ![Procfile](images/s2.PNG)
  
  - exobot.py o'rnida botingizni ishga tushiradigan fayl nomini yozishingiz zarur!
 
  
 <br>
+
  ![requirements.txt](images/s3.PNG)
  
  - requirements.txt (loyihamiz uchun kerakli paketlarni versiyalari bilan birgalikdagi talablar fayli!
 
 
 <br>
+
  ![exobot.py](images/s4.PNG)
  
  - Botimizni kodlari jamlangan fayl(exobot.py)!
