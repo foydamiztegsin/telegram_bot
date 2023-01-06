@@ -1,28 +1,32 @@
 # **Botimizni [Railway](https://railway.app) saytiga joylash** 
 
 
-# __Yuklash ikkita bosqichdan iborat! __
+# __Yuklash ikkita bosqichdan iborat__
 
-# __*Github* orqali yuklashni ko'rib chiqamiz! (agar sizga *Github* mavjud bo'lmasa CLI bosqichiga o'tirhsingiz mumkin)__
+# __*Github* orqali yuklashni ko'rib chiqamiz! (agar sizga *Github* mavjud bo'lmasa CLI bosqichiga o'tishingiz mumkin)__
 
 - **Github** profilimizda loyiha kodlarimiz yuklagan bo'lishim zarur!
 - Loyihamizda quydagi fayllardan tashkil topgan bo'lishi kerak!
 
 ![Loyiha fayllari](images/s1.PNG)
+
     - Botimizni kodlari jamlangan fayl(exobot.py)
     - Procfile (Railway saytida loyihamizni ishga tushirish uchun kerakli fayl
     - requirements.txt (loyihamiz uchun kerakli paketlarni versiyalari bilan birgalikdagi talablar fayli)
     
     
  ![Procfile](images/s2.PNG)
+ 
  - exobot.py o'rnida botingizni ishga tushiradigan fayl nomini yozishingiz zarur!
     
 
  ![requirements.txt](images/s3.PNG)
+ 
  - requirements.txt (loyihamiz uchun kerakli paketlarni versiyalari bilan birgalikdagi talablar fayli!
 
 
  ![exobot.py](images/s4.PNG)
+ 
  - Botimizni kodlari jamlangan fayl(exobot.py)!
 
 
