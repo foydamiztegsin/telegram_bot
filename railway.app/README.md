@@ -105,13 +105,14 @@
 <hr>
 
 > **Telegramga kirib botingizga /start yuboring! 🥳**
+
  ![Railway](images/r13.PNG)
  
 
 <hr>
 <hr>
 
-# __Uchinchi bosqich Loyihamizni  *CLI(terminal)* orqali yuklashni ko'rib chiqamiz!(hech qanday *GITHUB*-siz__
+# __Uchinchi bosqich Loyihamizni *CLI(terminal)* orqali yuklashni ko'rib chiqamiz!(hech qanday *GITHUB*-siz)__
 .....................
 
 
