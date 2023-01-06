@@ -7,24 +7,24 @@
 
 - **Github** profilimizda loyiha kodlarimiz yuklagan bo'lishim zarur!
 - Loyihamizda quydagi fayllardan tashkil topgan bo'lishi kerak!
-
+<hr>
 ![Loyiha fayllari](images/s1.PNG)
 
     - Botimizni kodlari jamlangan fayl(exobot.py)
     - Procfile (Railway saytida loyihamizni ishga tushirish uchun kerakli fayl
     - requirements.txt (loyihamiz uchun kerakli paketlarni versiyalari bilan birgalikdagi talablar fayli)
     
-    
+ <hr>
  ![Procfile](images/s2.PNG)
  
  - exobot.py o'rnida botingizni ishga tushiradigan fayl nomini yozishingiz zarur!
     
-
+<hr>
  ![requirements.txt](images/s3.PNG)
  
  - requirements.txt (loyihamiz uchun kerakli paketlarni versiyalari bilan birgalikdagi talablar fayli!
 
-
+<hr>
  ![exobot.py](images/s4.PNG)
  
  - Botimizni kodlari jamlangan fayl(exobot.py)!
