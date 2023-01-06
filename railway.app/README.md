@@ -37,12 +37,15 @@
  
  
 <hr>
+<hr>
 
 # __Ikkinchi bosqich **Railway saytidan ro'yxatdan o'tish va kodlarni GITHUB orqali yuklash**__
 
 
 > [Railway](https://railway.app) saytiga kirib **Login** - bo'limiga kiring!
  ![Railway](images/r1.PNG)
+
+<hr>
 
 
 > **GITHUB** orqali Login qilamiz
@@ -52,79 +55,68 @@
 > **GITHUB** orqali Login qilishim uchun brovzeringizda **GITHUB** - ga login qilgan bo'lishingiz zarur!
  ![Railway](images/r3.PNG)
 
+<hr>
+
 
 > *Rasmda ko'rsatilgan oyna ochiladi ** +New Project** - yarating!
-- **Eslatma** Agar *GITHUB* - giz yangi ochilgan bo'lsa sizda Visa Card kitishni so'rashi mumkin!
+- **Eslatma** Agar *GITHUB* - giz yangi ochilgan bo'lsa sizdan Visa Card kitishni so'rashi mumkin!
  ![Railway](images/r4.PNG)
+
+<hr>
 
 
 > **GITHUB** orqali Deploy qilishni tanlang!
  ![Railway](images/r5.PNG)
 
+<hr>
+
 
 > **Configure Github App** tanlang!
  ![Railway](images/r6.PNG)
+
+<hr>
 
 
 > **Rasmdagidek bajaring va loyihangizni tanlng**
  ![Railway](images/r7.PNG)
 
+<hr>
+
 
 > **GITHUB parolingizni yozing va kuting....**
  ![Railway](images/r8.PNG)
 
+<hr>
 
 
 > **Building... bo'lishini kuting....**
  ![Railway](images/r9.PNG)
 
-
-
-
-
-
-
-# __*CLI(terminal)* orqali yuklashni ko'rib chiqamiz!__
-
-
-
-- ПУСК+R knoplarini bosish orqali  kichik bir oyna ochiladi
-
-![ПУСК+R](images/pusk.jpg)
-
-
-Oyna ichiga cmd yozishingiz kerak
--  *OK* kopkani bosing!
-
-![cmd](images/cmd.jpg)
-
 <hr>
 
-- Terminal (cmd) oynasi ochiladi
-
-![cmd](images/ter.png)
-
+> **Building... bo'lgach ==> View Logs.**
+ ![Railway](images/r10.PNG)
+ 
 <hr>
 
-- git yozing va *Enter*-ni bosing
-
-![cmd](images/gitb.png)
-
+> **Rasmdagi holat kuzatilsa botingiz ishga tushdi!**
+ ![Railway](images/r12.PNG)
+ 
 <hr>
 
-- rasmdagidek xatolik chiqsa siz ushbu manzildan  👉 [GIT](https://git-scm.com/downloads)-ni yuklab oling(__Windows uchun__) va **Ikkinchi bosqich**-ga o'ting
-
-![cmd](images/er.jpg)
-
-<hr>
-
-- agar sizda ushbu ko'rinish chiqsa siz **3-bosqichga** o'tishingiz mumkin
-
-![cmd](images/tg.png)
+> **Telegramga kirib botingizga /start yuboring! 🥳**
+ ![Railway](images/r13.PNG)
+ 
 
 <hr>
 <hr>
 
-# __Ikkinchi bosqich__
+# __Uchinchi bosqich Loyihamizni  *CLI(terminal)* orqali yuklashni ko'rib chiqamiz!(hech qanday *GITHUB*-siz__
+.....................
+
+
+
+
+
 
 
