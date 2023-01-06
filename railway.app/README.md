@@ -1,7 +1,7 @@
 # **Botimizni [Railway](https://railway.app) saytiga joylash** 
 
 
-# __Yuklash ikkita bosqichdan iborat__
+# __Birinchi bosqich **GITHUB**__
 
 # __*Github* orqali yuklashni ko'rib chiqamiz! (agar sizga *Github* mavjud bo'lmasa CLI bosqichiga o'tishingiz mumkin)__
 
@@ -38,10 +38,45 @@
  
 <hr>
 
+# __Ikkinchi bosqich **Railway saytidan ro'yxatdan o'tish va kodlarni GITHUB orqali yuklash**__
+
+
+> [Railway](https://railway.app) saytiga kirib **Login** - bo'limiga kiring!
+ ![Railway](images/r1.PNG)
+
+
+> **GITHUB** orqali Login qilamiz
+ ![Railway](images/r2.PNG)
+
+
+> **GITHUB** orqali Login qilishim uchun brovzeringizda **GITHUB** - ga login qilgan bo'lishingiz zarur!
+ ![Railway](images/r3.PNG)
+
+
+> *Rasmda ko'rsatilgan oyna ochiladi ** +New Project** - yarating!
+- **Eslatma** Agar *GITHUB* - giz yangi ochilgan bo'lsa sizda Visa Card kitishni so'rashi mumkin!
+ ![Railway](images/r4.PNG)
+
+
+> **GITHUB** orqali Deploy qilishni tanlang!
+ ![Railway](images/r5.PNG)
+
+
+> **Configure Github App** tanlang!
+ ![Railway](images/r6.PNG)
+
+
+> **Rasmdagidek bajaring va loyihangizni tanlng**
+ ![Railway](images/r7.PNG)
+
+
+> **GITHUB parolingizni yozing va kuting....**
+ ![Railway](images/r8.PNG)
 
 
 
-
+> **Building... bo'lishini kuting....**
+ ![Railway](images/r9.PNG)
 
 
 
