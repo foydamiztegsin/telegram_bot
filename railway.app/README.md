@@ -16,23 +16,26 @@
     
 <hr>
 
+# __exobot.py o'rnida botingizni ishga tushiradigan fayl nomini yozishingiz zarur!__
  ![Procfile](images/s2.PNG)
  
- - exobot.py o'rnida botingizni ishga tushiradigan fayl nomini yozishingiz zarur!
+ 
 
  
 <hr>
 
+# __requirements.txt (loyihamiz uchun kerakli paketlarni versiyalari bilan birgalikdagi talablar fayli!__
  ![requirements.txt](images/s3.PNG)
  
- - requirements.txt (loyihamiz uchun kerakli paketlarni versiyalari bilan birgalikdagi talablar fayli!
+ 
 
 
 <hr>
 
+# __Botimizni kodlari jamlangan fayl(exobot.py)!__
  ![exobot.py](images/s4.PNG)
  
- - Botimizni kodlari jamlangan fayl(exobot.py)!
+ 
 <hr>
 
 
