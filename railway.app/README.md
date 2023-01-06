@@ -7,7 +7,6 @@
 
 - **Github** profilimizda loyiha kodlarimiz yuklagan bo'lishim zarur!
 - Loyihamizda quydagi fayllardan tashkil topgan bo'lishi kerak!
-<hr>
 ![Loyiha fayllari](images/s1.PNG)
 
     - Botimizni kodlari jamlangan fayl(exobot.py)
