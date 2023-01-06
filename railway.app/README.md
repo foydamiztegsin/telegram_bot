@@ -77,7 +77,7 @@
 <hr>
 
 
-> **Rasmdagidek bajaring va loyihangizni tanlng**
+> **Rasmdagidek bajaring va loyihangizni tanlang**
  ![Railway](images/r7.PNG)
 
 <hr>
