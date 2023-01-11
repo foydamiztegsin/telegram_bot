@@ -1,4 +1,4 @@
-# **Botimizni [Railway](https://railway.app) saytiga joylash** 
+# **Botimizni [Railway](https://railway.app?referralCode=wP9DGu) saytiga joylash** 
 
 
 # __Birinchi bosqich **GITHUB**__
